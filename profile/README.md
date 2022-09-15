@@ -25,9 +25,9 @@
 </p>
 
 # 친환경 지구지키미 Dr.TRASH!
-### [👩‍🎤Dr.TRASH Application 시연영상 보러가기](https://youtu.be/koXHCxJIRro)
-분리수거 장면을 실시간으로 감시하고 평가해 올바른 분리수거를 유도하는 서비스
 
+분리수거 장면을 실시간으로 감시하고 평가해 올바른 분리수거를 유도하는 서비스
+### [👩‍🎤Dr.TRASH Application 시연영상 보러가기](https://youtu.be/koXHCxJIRro)
 ## ⚡️ Features
 
 ### 인공지능을 통한 올바른 분리수거
